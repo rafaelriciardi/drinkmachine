@@ -1,0 +1,36 @@
+/* Login */
+.login-box{
+	margin: 200px auto;
+	width: 60%;
+	height: 300px;
+	background-color:  white;
+	border-radius: 18px;
+	text-align: center;
+	padding-top: 1px;
+}
+
+.login-form{
+	margin: 30px 30px;
+}
+
+.box-title{
+	top: 10px;
+}
+
+/* Sign In */
+.signin-box{
+	margin: 100px auto;
+	width: 60%;
+	height: 570px;
+	background-color:  white;
+	border-radius: 18px;
+	text-align: center;
+	padding: 1px;
+}
+
+.signin-form-div{
+	margin: 30px 30px;
+}
+
+
+
